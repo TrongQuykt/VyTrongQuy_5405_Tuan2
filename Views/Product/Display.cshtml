@@ -1,0 +1,24 @@
+﻿@model VyTrongQuy_5405_Tuan2.Models.Product
+
+@{
+    ViewData["Title"] = "Display";
+}
+
+    <h1 style="text-align: center;">Detail Product</h1>
+<table class="table">
+        
+            <h4>Name: @Model.Name</h4>
+            <h4>Price: @Model.Price</h4>
+            <h4>Description: @Model.Description</h4>
+            <h4>Category: @Model.CategoryId</h4>
+            <br>
+    <div class="btn_backhome" style="align-items: left; justify-content: left; display:flex; margin-bottom: 15px">
+        <a href="/Product" style="background: #0099FF; border-radius: 6px; width: 180px; height: 40px; display: inline-flex; justify-content: center; align-items: center; text-decoration: none; color: #fff; border: 2px solid #000">Back to List</a>
+    </div>
+    </thead>
+</table>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

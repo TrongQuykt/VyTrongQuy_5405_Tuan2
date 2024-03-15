@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\VyTrongQuy_5405_Tuan2.props" />
+</Project>

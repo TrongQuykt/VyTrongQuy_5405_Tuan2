@@ -1,0 +1,50 @@
+﻿@model VyTrongQuy_5405_Tuan2.Models.Product
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1 style="text-align: center">Delete Product</h1>
+<hr />
+<div class="row" style="align-items: center; justify-content: center;">
+    <div class="col-md-4">
+        <form asp-action="Delete">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Id" class="control-label"></label>
+                <input asp-for="Id" class="form-control" />
+                <span asp-validation-for="Id" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryId">Category</label>
+                <select asp-for="CategoryId" asp-items="ViewBag.Categories"
+                        class="form-control"></select>
+            </div>
+            <br />
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" style="border: 2px solid #000; border-radius: 5px" />
+            </div>
+            <div class="btn_backhome" style="align-items: left; justify-content: left; display:flex; margin-top: 20px">
+                <a href="/Product" style="background: #0099FF; border-radius: 6px; width: 180px; height: 40px; display: inline-flex; justify-content: center; align-items: center; text-decoration: none; color: #fff; border: 2px solid #000">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

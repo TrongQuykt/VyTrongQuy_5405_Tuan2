@@ -1,0 +1,255 @@
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\appsettings.json
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\VyTrongQuy_5405_Tuan2.staticwebassets.runtime.json
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\VyTrongQuy_5405_Tuan2.exe
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\VyTrongQuy_5405_Tuan2.deps.json
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\VyTrongQuy_5405_Tuan2.runtimeconfig.json
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\VyTrongQuy_5405_Tuan2.dll
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\VyTrongQuy_5405_Tuan2.pdb
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.RazorAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.RazorAssemblyInfo.cs
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets\msbuild.VyTrongQuy_5405_Tuan2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets\msbuild.build.VyTrongQuy_5405_Tuan2.props
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VyTrongQuy_5405_Tuan2.props
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VyTrongQuy_5405_Tuan2.props
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\scopedcss\bundle\VyTrongQuy_5405_Tuan2.styles.css
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\scopedcss\projectbundle\VyTrongQuy_5405_Tuan2.bundle.scp.css
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.dll
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\refint\VyTrongQuy_5405_Tuan2.dll
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.pdb
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\TH Web\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\ref\VyTrongQuy_5405_Tuan2.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\appsettings.Development.json
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\appsettings.json
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\VyTrongQuy_5405_Tuan2.staticwebassets.runtime.json
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\VyTrongQuy_5405_Tuan2.exe
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\VyTrongQuy_5405_Tuan2.deps.json
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\VyTrongQuy_5405_Tuan2.runtimeconfig.json
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\VyTrongQuy_5405_Tuan2.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\VyTrongQuy_5405_Tuan2.pdb
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Humanizer.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\NuGet.Common.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\System.CodeDom.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.csproj.AssemblyReference.cache
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.AssemblyInfoInputs.cache
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.AssemblyInfo.cs
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.csproj.CoreCompileInputs.cache
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.MvcApplicationPartsAssemblyInfo.cache
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.RazorAssemblyInfo.cache
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.RazorAssemblyInfo.cs
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets.build.json
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets.development.json
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets\msbuild.VyTrongQuy_5405_Tuan2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets\msbuild.build.VyTrongQuy_5405_Tuan2.props
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.VyTrongQuy_5405_Tuan2.props
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.VyTrongQuy_5405_Tuan2.props
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\scopedcss\bundle\VyTrongQuy_5405_Tuan2.styles.css
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\scopedcss\projectbundle\VyTrongQuy_5405_Tuan2.bundle.scp.css
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQ.030813B9.Up2Date
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\refint\VyTrongQuy_5405_Tuan2.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.pdb
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.genruntimeconfig.cache
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\ref\VyTrongQuy_5405_Tuan2.dll
