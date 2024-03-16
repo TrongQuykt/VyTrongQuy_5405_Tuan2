@@ -253,3 +253,4 @@ D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\refint\
 D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.pdb
 D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.genruntimeconfig.cache
 D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\ref\VyTrongQuy_5405_Tuan2.dll
+D:\Buổi 2\VyTrongQuy_5405_Tuan2\VyTrongQuy_5405_Tuan2\obj\Debug\net8.0\VyTrongQuy_5405_Tuan2.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VyTrongQuy_5405_Tuan2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc51f7788b20ce0483dd24538def332ce8cd7b38")]
 [assembly: System.Reflection.AssemblyProductAttribute("VyTrongQuy_5405_Tuan2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VyTrongQuy_5405_Tuan2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

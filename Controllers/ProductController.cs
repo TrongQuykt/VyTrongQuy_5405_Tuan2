@@ -88,29 +88,6 @@ namespace VyTrongQuy_5405_Tuan2.Controllers
             _productRepository.Delete(id);
             return RedirectToAction("Index");
         }
-        [HttpPost]
-        public async Task<IActionResult> Add(Product product, IFormFile imageUrl)
-        {
-            // Xử lý khi dữ liệu hợp lệ
-            if (ModelState.IsValid)
-            {
-                // Kiểm tra và xử lý ảnh
-                if (imageUrl != null && imageUrl.Length > 0)
-                {
-                    // Xử lý việc lưu trữ ảnh
-                }
-
-                // Thêm sản phẩm vào repository
-                _productRepository.Add(product);
-                return RedirectToAction("Index");
-            }
-            // Nếu dữ liệu không hợp lệ, trả về view Add với model đã nhập
-            var categories = _categoryRepository.GetAllCategories();
-            ViewBag.Categories = new SelectList(categories, "Id", "Name");
-            return View(product);
-        }
-
-
         public IActionResult Index()
         {
             var products = _productRepository.GetAll();
