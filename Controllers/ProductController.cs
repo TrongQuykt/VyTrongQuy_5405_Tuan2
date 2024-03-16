@@ -88,6 +88,43 @@ namespace VyTrongQuy_5405_Tuan2.Controllers
             _productRepository.Delete(id);
             return RedirectToAction("Index");
         }
+        [HttpPost("AddWithImages")]
+        public async Task<IActionResult> AddWithImages(Product product, IFormFile imageUrl, List<IFormFile> imageUrls)
+        {
+            if (ModelState.IsValid)
+            {
+                if (imageUrl != null)
+                {
+                    // Lưu hình ảnh đại diện
+                    product.ImageUrl = await SaveImage(imageUrl);
+                }
+                if (imageUrls != null && imageUrls.Count > 0)
+                {
+                    product.ImageUrls = new List<string>();
+                    foreach (var file in imageUrls)
+                    {
+                        // Lưu các hình ảnh khác
+                        product.ImageUrls.Add(await SaveImage(file));
+                    }
+                }
+                _productRepository.Add(product);
+                return RedirectToAction("Index");
+            }
+            return View(product);
+        }
+
+        private async Task<string> SaveImage(IFormFile image)
+        {
+            var fileName = Guid.NewGuid().ToString() + Path.GetExtension(image.FileName);
+            var savePath = Path.Combine("wwwroot/images", fileName);
+            using (var fileStream = new FileStream(savePath, FileMode.Create))
+            {
+                await image.CopyToAsync(fileStream);
+            }
+            return "wwwroot/images/" + fileName; // Trả về đường dẫn tương đối
+        }
+
+
         public IActionResult Index()
         {
             var products = _productRepository.GetAll();

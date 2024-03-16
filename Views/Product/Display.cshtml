@@ -4,9 +4,9 @@
     ViewData["Title"] = "Display";
 }
 
-    <h1 style="text-align: center;">Detail Product</h1>
+<h1 style="text-align: center;">Detail Product</h1>
 <table class="table">
-        
+            <h4>ID: @Model.Id</h4>
             <h4>Name: @Model.Name</h4>
             <h4>Price: @Model.Price</h4>
             <h4>Description: @Model.Description</h4>
@@ -17,8 +17,6 @@
     </div>
     </thead>
 </table>
-
-
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }

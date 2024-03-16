@@ -3,7 +3,7 @@
 @{
     ViewData["Title"] = "Delete";
 }
-
+<div style="background: linear-gradient(45deg, #33FFCC, #009966, #00FF66); border-radius: 10px; border: 3px solid #000">
 <h1 style="text-align: center">Delete Product</h1>
 <hr />
 <div class="row" style="align-items: center; justify-content: center;">
@@ -37,13 +37,14 @@
             </div>
             <br />
             <div class="form-group">
-                <input type="submit" value="Update" class="btn btn-primary" style="border: 2px solid #000; border-radius: 5px" />
+                    <input type="submit" value="Update" class="btn btn-primary" style="border: 2px solid #000; border-radius: 5px; background: #00FF66" />
             </div>
             <div class="btn_backhome" style="align-items: left; justify-content: left; display:flex; margin-top: 20px">
-                <a href="/Product" style="background: #0099FF; border-radius: 6px; width: 180px; height: 40px; display: inline-flex; justify-content: center; align-items: center; text-decoration: none; color: #fff; border: 2px solid #000">Back to List</a>
+                <a href="/Product" style="background: #0099FF; border-radius: 6px; width: 180px; height: 40px; display: inline-flex; justify-content: center; align-items: center; text-decoration: none; color: #fff; border: 2px solid #000; margin-bottom: 10px">Back to List</a>
             </div>
         </form>
     </div>
+</div>
 </div>
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
